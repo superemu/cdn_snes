@@ -1,0 +1,9 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/binlong0810/snem_cdn/master",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/binlong0810/snem_cdn/master/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/binlong0810/snem_cdn/master/version.manifest",
+	"version" : "1",
+	"engineVersion" : "3.6.1",
+	"assets" : {},
+    "searchPaths" : []
+}
