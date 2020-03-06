@@ -2,7 +2,7 @@
 	"packageUrl" : "https://raw.githubusercontent.com/superemu/cdn_snes/master",
     	"remoteManifestUrl" : "https://raw.githubusercontent.com/superemu/cdn_snes/master/project.manifest",
     	"remoteVersionUrl" : "https://raw.githubusercontent.com/superemu/cdn_snes/master/version.manifest",
-	"version" : "11",
+	"version" : "1",
 	"engineVersion" : "3.6.1",
 	"assets" : {},
     "searchPaths" : []
